@@ -1,4 +1,5 @@
-live demo : https://pratikjagtap013.github.io/My-Portfolio/
+live demo : https://pratikjagtap013.github.io/My-Resume-Portfolio/
+live demo : https://pratikjagtap-resume-portfolio.netlify.app/
 
 
 
