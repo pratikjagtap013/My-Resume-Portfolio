@@ -1,4 +1,8 @@
-Thanks for downloading this template!
+live demo : https://pratikjagtap013.github.io/My-Portfolio/
+
+
+
+
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
